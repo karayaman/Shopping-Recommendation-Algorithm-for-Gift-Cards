@@ -26,7 +26,7 @@
 
 **       ** All contributions are welcome and feel free to send me email if you have questions.
 
-  **What features can be added further?**
+  **Which features can be added further?**
 
 **       ** Program finds purchases only greater than or equal to some amount, it can be modified so that an option for finding purchases that are less than or equal to some amount.
 
